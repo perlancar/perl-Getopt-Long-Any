@@ -29,6 +29,8 @@ sub GetOptions {
 1;
 #ABSTRACT: Use Getopt::Long::More, or Getopt::Long::Complete, or fallback to Getopt::Long
 
+=for Pod::Coverage ^(.+)$
+
 =head1 SYNOPSIS
 
  use Getopt::Long::Any;
