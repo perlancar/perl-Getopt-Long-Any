@@ -46,3 +46,10 @@ sub GetOptions {
 =head1 DESCRIPTION
 
 B<This is an experiment module.>
+
+
+=head1 SEE ALSO
+
+L<Getopt::Long::More>
+
+L<Getopt::Long::Complete>
